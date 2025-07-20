@@ -115,4 +115,3 @@ You should see up to 10 formatted organic results printed to the terminal.
 * [SerpAPI](https://serpapi.com/) — Google Search Results API
 * [LangChain](https://www.langchain.com/) — LLM-powered framework
 * [Rich](https://github.com/Textualize/rich) — Terminal formatting
-
